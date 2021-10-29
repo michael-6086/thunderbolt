@@ -6,5 +6,5 @@
 2- get id account
 3- write password list name
 4- waited finish password guess
-thanks for you finished 
-when see speaked problem 
+شكرا لانك انتهيت
+When you encounter a problem, talk to the developer to try to solve it
